@@ -60,5 +60,6 @@ Merhaba! Bu repo, 42 Havuz'undan sonra da öğrenmeye ve gelişmeye devam ettiğ
 
 
 ## 📈 Öğrenme İstatistikleri
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skolak&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skolak&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skolak&layout=compact&hide_title=true&theme=react)

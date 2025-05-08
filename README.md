@@ -35,7 +35,7 @@ Merhaba! Bu repo, 42 Havuz'undan sonra da öğrenmeye ve gelişmeye devam ettiğ
 **Ek Eğitimler**
 
 - Ayrıca, katıldığım **Udemy** ve **BTK Akademi** kurslarına tekrar göz atıp. Bu kurslar sayesinde öğrendiklerimi tekrar gözden geçirerek pekiştireceğimi düşünüyorum.
-- **C Programming** ve **Data Structures & Algorithms** kurslarına katılmaya devam ediyorum
+- **Mastering data structures & Algorithms using C and C++ ve Python Programlama** kurslarına katılmaya devam ediyorum
 ---
 
 ### 🎓 Sürekli Öğrenme ve Ek Eğitimler
